@@ -1,0 +1,16 @@
+body {
+	margin: 50px 100px 50px 100px;
+}
+#tag {
+	background-color: gray;
+}
+#name {
+	color: blue;
+}
+a {
+	color: red;
+	text-decoration: none;
+}
+a:hover {
+	color: blue;
+}
